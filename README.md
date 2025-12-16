@@ -21,37 +21,38 @@
 
 ### 🧠 Tech Stack (Things I work with)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60">
-    <span style="margin-top: 5px; font-weight: bold;">HTML5</span>
+<div style="display: flex; flex-direction:column; flex-wrap: wrap; gap: 30px; align-items: center; justify-content: flex-start;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
+    <div><strong>HTML5</strong></div>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60">
-    <span style="margin-top: 5px; font-weight: bold;">CSS3</span>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 
+    <div><strong>CSS3</strong></div>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
-    <span style="margin-top: 5px; font-weight: bold;">JavaScript</span>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
+    <div><strong>JavaScript</strong></div>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60">
-    <span style="margin-top: 5px; font-weight: bold;">Bootstrap</span>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/> 
+    <div><strong>Bootstrap</strong></div>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60" height="60">
-    <span style="margin-top: 5px; font-weight: bold;">Tailwind CSS</span>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/> 
+    <div><strong>Tailwind CSS</strong></div>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60">
-    <span style="margin-top: 5px; font-weight: bold;">React.js</span>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> 
+    <div><strong>React.js</strong></div>
   </div>
 </div>
+
 
 
 
