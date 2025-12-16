@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi, I'm Assem Abdel Hamid</h1>
+<h1 align="center">👋 Hi, I'm Assem Abdel Hamid <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="50"></h1>
+
 
 <p align="center">
   <b>Frontend Developer</b> • UI Lover • Building modern web experiences  
