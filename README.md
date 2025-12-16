@@ -22,7 +22,7 @@
 ### 🚀 About Me
 
 * 💻 **Frontend Developer**
-* 🎨 **Graphic Designer & Video Editor** (Side skills)
+* 🎨 **Media Buying (Marketing) & Graphic Designer & Video Editor** (Side skills)
 * 🌱 Always learning and improving UI/UX & performance
 * ⚡ Love turning ideas into real products
 
