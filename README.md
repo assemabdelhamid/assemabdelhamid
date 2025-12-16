@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=F7AB0A&center=true&vCenter=true&width=600&lines=Hi,+I'm+Assem+Abdel+Hamid+%F0%9F%91%8B" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=32&duration=3000&pause=500&color=1ABC9C&center=true&vCenter=true&width=600&lines=Hi,+I'm+Assem+Abdel+Hamid+%F0%9F%91%8B" alt="Typing Animation"/>
 </div>
+
 
 
 
