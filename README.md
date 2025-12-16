@@ -22,7 +22,7 @@
 ### 🧠 Tech Stack (Things I work with)
 
 <div style="display: flex; flex-direction:row ; flex-wrap: wrap; gap: 30px; align-items: center; justify-content: flex-start;">
-  <div style="text-align: center;">
+  <div style="text-align: center;display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
     <div><strong>HTML5</strong></div>
   </div>
