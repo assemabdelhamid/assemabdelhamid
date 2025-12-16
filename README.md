@@ -1,44 +1,79 @@
-<img src="https://your-image-link.com/header.png" alt="Assem GitHub README header image">
+<h1 align="center">👋 Hi, I'm Assem Abdel Hamid</h1>
 
-<p>
-<a href="https://twitter.com/assem_profile"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/assem-profile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/assem_profile"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a href="https://www.youtube.com/@assem_profile"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+<p align="center">
+  <b>Frontend Developer</b> • UI Lover • Building modern web experiences  
 </p>
 
-# Hi, I'm Assem Abdel Hamid 👋
-
-I am a **Frontend Developer**, **Graphic Designer**, and **Video Editor**. I build **modern, responsive, and interactive websites** using:
-
-- **HTML5, CSS3, JavaScript**
-- **Bootstrap & Tailwind**
-- **React.js**
-
-I also combine my development skills with **creative design and video editing** to deliver complete digital solutions.
+<p align="center">
+  Passionate about creating clean, responsive, and user-friendly interfaces using modern frontend technologies.
+</p>
 
 ---
 
-## 🛠️ Projects & Work
+### 🚀 About Me
 
-Here are some projects I’m currently working on:
-
-- Personal Portfolio Websites
-- CRUD Management Systems
-- Interactive Games (XOXO, etc.)
-- To-Do List & Productivity Apps
-- Responsive Web Layouts with Tailwind & Bootstrap
+* 💻 **Frontend Developer**
+* 🎨 **Graphic Designer & Video Editor** (Side skills)
+* 🌱 Always learning and improving UI/UX & performance
+* ⚡ Love turning ideas into real products
 
 ---
 
-## 📊 GitHub Stats
+### 🧠 Tech Stack (Things I work with)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=assem-profile&show_icons=true&theme=radical" alt="GitHub Stats"></p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## ☕ Support Me
+### 🎨 Design & Media Tools
 
-If you like my work and want to support me:
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white"/>
+</p>
 
-<a href="https://www.buymeacoffee.com/assem"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170"></a>
+---
+
+### 📌 What I Focus On
+
+* Responsive Web Design 📱
+* Clean & reusable components ♻️
+* Performance & accessibility ⚡
+* Modern UI with Tailwind & React ✨
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 🌍 Where to Find Me
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider following me!
+</p>
