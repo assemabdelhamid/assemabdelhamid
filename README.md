@@ -1,7 +1,7 @@
 <h1 align="center">
-  👋 Hi, I'm Assem Abdel Hamid 
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=0D1117&center=true&vCenter=true&width=600&lines=Hi,+I'm+Assem+Abdel+Hamid;Frontend+Developer+%26+Designer" alt="Typing SVG"/>
 </h1>
+
 
 
 
