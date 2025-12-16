@@ -21,25 +21,35 @@
 
 ### 🧠 Tech Stack (Things I work with)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"><br>
-  <sub><b>HTML5</b></sub>&nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"><br>
-  <sub><b>CSS3</b></sub>&nbsp;&nbsp;&nbsp;
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"><br>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"><br>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"><br>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"><br>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"><br>
+      <sub><b>React.js</b></sub>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"><br>
-  <sub><b>JavaScript</b></sub>&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"><br>
-  <sub><b>Bootstrap</b></sub>&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"><br>
-  <sub><b>Tailwind CSS</b></sub>&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"><br>
-  <sub><b>React.js</b></sub>
-</p>
 
 
 
