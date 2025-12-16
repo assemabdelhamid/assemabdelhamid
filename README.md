@@ -21,37 +21,25 @@
 
 ### 🧠 Tech Stack (Things I work with)
 
-<div style="display: flex; flex-direction:row ; flex-wrap: wrap; gap: 30px; align-items: center; justify-content: flex-start;">
-  <div style="text-align: center;display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
-    <div><strong>HTML5</strong></div>
-  </div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"><br>
+  <sub><b>HTML5</b></sub>&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"><br>
+  <sub><b>CSS3</b></sub>&nbsp;&nbsp;&nbsp;
 
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 
-    <div><strong>CSS3</strong></div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"><br>
+  <sub><b>JavaScript</b></sub>&nbsp;&nbsp;&nbsp;
 
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-    <div><strong>JavaScript</strong></div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"><br>
+  <sub><b>Bootstrap</b></sub>&nbsp;&nbsp;&nbsp;
 
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/> 
-    <div><strong>Bootstrap</strong></div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"><br>
+  <sub><b>Tailwind CSS</b></sub>&nbsp;&nbsp;&nbsp;
 
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/> 
-    <div><strong>Tailwind CSS</strong></div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> 
-    <div><strong>React.js</strong></div>
-  </div>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"><br>
+  <sub><b>React.js</b></sub>
+</p>
 
 
 
