@@ -21,7 +21,7 @@
 
 ### 🧠 Tech Stack (Things I work with)
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left= 20px ; border=none">
   <tr>
     <td align="left" style="padding-right:40px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"><br>
