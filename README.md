@@ -21,7 +21,7 @@
 
 ### 🧠 Tech Stack (Things I work with)
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center; justify-content: flex-start;">
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
     <div><strong>HTML5</strong></div>
@@ -51,7 +51,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> 
     <div><strong>React.js</strong></div>
   </div>
-</p>
+</div>
+
 
 
 
